@@ -27,7 +27,7 @@
       {
         "id": "a23cc4025d43af85",
         "type": "tabs",
-        "dimension": 28.80710659898477,
+        "dimension": 28.807106598984763,
         "children": [
           {
             "id": "2d5c0a0e5e5c501a",
@@ -192,6 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
